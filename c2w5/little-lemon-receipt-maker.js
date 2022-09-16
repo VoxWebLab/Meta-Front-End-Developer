@@ -59,16 +59,16 @@ function getDiscount(taxBoolean, guests) {
 // Call getDiscount()
 console.log('----------------');
 console.log('test 1: true, 2:');
-getDiscount(true, 2);
+getDiscount(true, 2); // Expect prices with Tax and discount $5
 console.log('------------------');
 console.log('test 2: false, 10:');
-getDiscount(false, 10);
+getDiscount(false, 10); // Expect prices without tax and discount $10
 console.log('---------------------');
 console.log('test 3: no arguments:');
-getDiscount();
+getDiscount(); // Expect warning messages in both functions
 console.log('-----------------------');
 console.log('test 4: string, string:');
-getDiscount('true', '2');
+getDiscount('true', '2'); // Expect warning messages in both functions
 console.log('------------------------------------');
 console.log('test 5: string, number out of range:');
-getDiscount('false', 40);
+getDiscount(false, 40); // Expect warning message in getDiscount()
