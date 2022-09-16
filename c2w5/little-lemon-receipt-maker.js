@@ -57,4 +57,18 @@ function getDiscount(taxBoolean, guests) {
 }
 
 // Call getDiscount()
-getDiscount(true, 10);
+console.log('----------------');
+console.log('test 1: true, 2:');
+getDiscount(true, 2);
+console.log('------------------');
+console.log('test 2: false, 10:');
+getDiscount(false, 10);
+console.log('---------------------');
+console.log('test 3: no arguments:');
+getDiscount();
+console.log('-----------------------');
+console.log('test 4: string, string:');
+getDiscount('true', '2');
+console.log('------------------------------------');
+console.log('test 5: string, number out of range:');
+getDiscount('false', 40);

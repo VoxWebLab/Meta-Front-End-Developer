@@ -59,3 +59,6 @@ getDiscount(false, 10)
 What happens when you don't pass-in any arguments?
 
 What happens when you pass values that are not expected?
+
+
+Solution: https://voxweblab.github.io/little-lemon/c2w5/little-lemon-receipt-maker.js
