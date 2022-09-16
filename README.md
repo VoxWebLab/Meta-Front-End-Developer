@@ -1,5 +1,9 @@
 # little-lemon-receipt-maker
-Coursera-Meta Assignment: Little Lemon Receipt Maker
+
+Meta Front-End Developer Professional Certificate
+Programming with JavaScript
+
+Assignment: Little Lemon Receipt Maker
 
 Assignment Instructions
 In this exercise, you will work with some data provided as an array of objects, listing information about dishes available in the Little Lemon restaurant.
