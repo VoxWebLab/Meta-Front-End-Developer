@@ -7,6 +7,10 @@
 
 <h2>Course 2. Programming with JavaScript</h2>
 
+Programming Assignment: Building a functional program: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/Building-a-functional-program/
+
+Solution: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/Building-a-functional-program/functionalprogramming.js
+
 Assignment for Little Lemon Receipt Maker: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/little-lemon-receipt-maker
 
 Solution for Little Lemon Receipt Maker: https://voxweblab.github.io/Meta-Front-End-Developer/little-lemon-receipt-maker/little-lemon-receipt-maker.js
