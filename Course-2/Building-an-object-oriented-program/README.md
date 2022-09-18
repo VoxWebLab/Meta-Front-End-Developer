@@ -4,14 +4,11 @@
 <p>Code a Person class, with three parameters in the constructor: name, age, and energy.</p>
 
 <p>Set the default parameters in the Person class as follows:</p>
-<code>
-
-name = "Tom"
-
-age = 20
-
-energy = 100
-</code>
+<p><code>
+name = "Tom"<br>
+age = 20<br>
+energy = 100<br>
+</code></p>
 
 <p>Code two methods in the Person class. Name those methods sleep() and doSomethingFun().</p>
 
@@ -30,12 +27,10 @@ energy = 100
 </ul>
 
 <p>These properties are set to the following default values:</p>
-<code>
-
-xp = 0
-
+<p><code>
+xp = 0<br>
 hourlyWage = 10
-</code>
+</code></p>
 
 <p>The Worker class has all the paramerters and methods of its super-class.</p>
 
@@ -46,18 +41,13 @@ hourlyWage = 10
 <p>Inside the intern function instantiate the Worker class to code a new intern </p>object.
 
 <p>The intern should have the following characteristics:</p>
-<code>
-
-name: Bob
-
-age: 21
-
-energy: 110
-
-xp: 0
-
+<p><code>
+name: Bob<br>
+age: 21<br>
+energy: 110<br>
+xp: 0<br>
 hourlyWage: 10
-</code>
+</code></p>
 
 <p>Run the goToWork() method on the intern object. Then return the intern object.</p>
 
@@ -66,18 +56,13 @@ hourlyWage: 10
 <p>Inside the manager function instantiate the Worker class to code a new manager object.</p>
 
 <p>The manager object should have the following characteristics:</p>
-<code>
-
-name: Alice
-
-age: 30
-
-energy: 120
-
-xp: 100
-
-hourlyWage: 30
-</code>
+<p><code>
+name: Alice<br>
+age: 30<br>
+energy: 120<br>
+xp: 100<br>
+hourlyWage: 30<br>
+</code></p>
 
 <p>Run the doSomethingFun() method on the manager object. Then return the manager object.</p>
 
