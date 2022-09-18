@@ -11,11 +11,15 @@
 
 Solution: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/Building-a-functional-program/functionalprogramming.js
 
-<b>lab 2.</b>Programming Assignment: Building an object-oriented program: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/Building-an-object-oriented-program/
+<hr>
+
+<b>lab 2.</b> Programming Assignment: Building an object-oriented program: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/Building-an-object-oriented-program/
 
 Solution: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/Building-an-object-oriented-program/script.js
 
-<b>Graded Assignment.</b>Little Lemon Receipt Maker: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/little-lemon-receipt-maker
+<hr>
+
+<b>Graded Assignment.</b> Little Lemon Receipt Maker: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/little-lemon-receipt-maker
 
 Solution for Little Lemon Receipt Maker: https://voxweblab.github.io/Meta-Front-End-Developer/little-lemon-receipt-maker/little-lemon-receipt-maker.js
 
