@@ -13,14 +13,14 @@ Solution: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/Building
 
 <hr>
 
-<b>lab 2.</b> Programming Assignment: Building an object-oriented program: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/Building-an-object-oriented-program/
+<b>Lab 2.</b> Programming Assignment: Building an object-oriented program: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/Building-an-object-oriented-program/
 
 Solution: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/Building-an-object-oriented-program/script.js
 
 <hr>
 
-<b>Graded Assignment.</b> Little Lemon Receipt Maker: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/little-lemon-receipt-maker
+<b>Graded Assignment.</b> Little Lemon Receipt Maker: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/little-lemon-receipt-maker
 
-Solution for Little Lemon Receipt Maker: https://voxweblab.github.io/Meta-Front-End-Developer/little-lemon-receipt-maker/little-lemon-receipt-maker.js
+Solution for Little Lemon Receipt Maker: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/little-lemon-receipt-maker/little-lemon-receipt-maker.js
 
 <img src="https://voxweblab.github.io/Meta-Front-End-Developer/certificates/Coursera-Meta-FrontEnd-2.jpg" alt="Programming with JavaScript Certificate">

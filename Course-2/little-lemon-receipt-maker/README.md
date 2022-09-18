@@ -61,4 +61,4 @@ What happens when you don't pass-in any arguments?
 What happens when you pass values that are not expected?
 
 
-Solution: https://voxweblab.github.io/Meta-Front-End-Developer/little-lemon-receipt-maker/little-lemon-receipt-maker.js
+Solution for Little Lemon Receipt Maker: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/little-lemon-receipt-maker/little-lemon-receipt-maker.js
