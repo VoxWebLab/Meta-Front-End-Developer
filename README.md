@@ -19,7 +19,7 @@ Solution: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/Building
 
 <hr>
 
-<b>Lab 2.</b> Programming Assignment: Building an object-oriented program: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/Writing-a-unit-test/
+<b>Lab 3.</b> Programming Assignment: Writing a Unit Test: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/Writing-a-unit-test/
 
 Solution: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/Writing-a-unit-test/script.js
 
