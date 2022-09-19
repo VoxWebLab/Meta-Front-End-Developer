@@ -23,16 +23,11 @@ milkshake<br>
 <h2>Step 2.</h2>
 <p>You are given the following starter code:</p>
 <p><code>
-const animal = {
-
-canJump: true
-
-};
-
-const bird = Object.create(animal);
-
-bird.canFly = true;
-
+const animal = {<br>
+canJump: true<br>
+};<br>
+const bird = Object.create(animal);<br>
+bird.canFly = true;<br>
 bird.hasFeathers = true;
 </code></p>
 
