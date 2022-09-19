@@ -24,10 +24,15 @@ milkshake<br>
 <p>You are given the following starter code:</p>
 <p><code>
 const animal = {<br>
+<br>
 canJump: true<br>
+<br>
 };<br>
+<br>
 const bird = Object.create(animal);<br>
+<br>
 bird.canFly = true;<br>
+<br>
 bird.hasFeathers = true;
 </code></p>
 
