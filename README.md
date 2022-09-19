@@ -19,6 +19,12 @@ Solution: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/Building
 
 <hr>
 
+<b>Lab 2.</b> Programming Assignment: Building an object-oriented program: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/Writing-a-unit-test/
+
+Solution: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/Writing-a-unit-test/script.js
+
+<hr>
+
 <b>Graded Assignment.</b> Little Lemon Receipt Maker: https://github.com/VoxWebLab/Meta-Front-End-Developer/tree/main/Course-2/little-lemon-receipt-maker
 
 Solution for Little Lemon Receipt Maker: https://voxweblab.github.io/Meta-Front-End-Developer/Course-2/little-lemon-receipt-maker/little-lemon-receipt-maker.js
